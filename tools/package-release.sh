@@ -44,10 +44,13 @@ with zipfile.ZipFile(out/(name+'.parts.zip'),'w',compression=zipfile.ZIP_DEFLATE
     archive.writestr('OFFSETS.txt','\n'.join(f'0x{offset:06x} {filename}' for offset,filename in parts)+'\n')
     archive.write(root/'LICENSE','LICENSE')
     archive.write(root/'THIRD_PARTY_NOTICES.md','THIRD_PARTY_NOTICES.md')
+    for license_file in sorted((root/'licenses').iterdir()):
+        archive.write(license_file,'licenses/'+license_file.name)
 manifest={'name':'ARose WaveShare','version':version,'new_install_prompt_erase':True,'new_install_improv_wait_time':0,
           'builds':[{'chipFamily':'ESP32-S3','parts':[{'path':factory.name,'offset':0}]}]}
 (out/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
-(out/'FLASHING.md').write_text((root/'docs/FLASHING.md').read_text())
+guide=(root/'docs/FLASHING.md').read_text().replace('../README.md','https://github.com/CooLajz/ARose-WaveShare').replace('(FLASHING.cs.md)','(https://github.com/CooLajz/ARose-WaveShare/blob/main/docs/FLASHING.cs.md)')
+(out/'FLASHING.md').write_text(guide)
 assets=[factory,out/(name+'.parts.zip'),out/'manifest.json',out/'FLASHING.md']
 (out/'SHA256SUMS.txt').write_text(''.join(hashlib.sha256(p.read_bytes()).hexdigest()+'  '+p.name+'\n' for p in assets))
 print(f'Verified {factory.name}: {len(data)} bytes; settings partition is outside the image.')

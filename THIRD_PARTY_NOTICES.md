@@ -11,3 +11,5 @@ The ST7701, CST820, GT911, TCA9554 and I²C drivers and partition layout were ad
 **Arduino-ESP32 3.0.7** and **ESP-IDF 5.1.4** are external dependencies under their own licenses. The pinned IDF revision is `d7b0a45ddbddbac53afb4fc28168f9f9259dbb79`. Neither SDK nor Arduino core sources are patched. The CMake adapter builds Arduino core and Wire against the custom IDF configuration. Their original repositories are not modified by building or flashing this project.
 
 This is an independent community demo and is not endorsed or maintained by Waveshare or Espressif.
+
+Binary releases include the Arduino-ESP32 and ESP-IDF license texts in the parts archive. Their corresponding source versions are [Arduino-ESP32 3.0.7](https://github.com/espressif/arduino-esp32/tree/3.0.7) and [ESP-IDF 5.1.4](https://github.com/espressif/esp-idf/tree/d7b0a45ddbddbac53afb4fc28168f9f9259dbb79); IDF submodules are fetched at their pinned revisions by the setup script. This repository includes the application sources and build configuration needed to rebuild the firmware with modified dependency sources.
