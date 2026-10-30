@@ -1,0 +1,499 @@
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2754) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2755) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac3
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+[0;31mE (2758) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer[0m
+[0;31mE (2759) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed[0m
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201914b  PS      : 0x00060730  A0      : 0x82019788  A1      : 0x3fcd98b0
+A2      : 0x3fcda14c  A3      : 0x3c04d7c4  A4      : 0x00000000  A5      : 0x00000ac7
+A6      : 0x3c04d7c4  A7      : 0x3c04dfed  A8      : 0x7fffffff  A9      : 0x3fcd9850
+A10     : 0x00000001  A11     : 0x3c04d7c4  A12     : 0x3c04dd0b  A13     : 0x3fcd98b0
+A14     : 0x3fcd9890  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x42019148:0x3fcd98b0 0x42019785:0x3fcd98d0 0x4201084b:0x3fcd9940 0x42011fb3:0x3fcd9a90 0x4200f2e7:0x3fcd9ab0
+
+
+
+
+ELF file SHA256: 0cdfaa230da02a4b
+
+Rebooting...
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7995392
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=64140 brightness=100 storage=1
+LCD_MEMORY internal=131776 largest_dma=69632
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820

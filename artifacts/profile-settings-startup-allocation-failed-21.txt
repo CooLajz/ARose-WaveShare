@@ -1,0 +1,96 @@
+ARose WaveShare 0.3.0-xip; CPU=240 MHz flash=16777216 PSRAM=7929856
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=4489 brightness=100 storage=1 save_position=1
+LCD_MEMORY internal=146768 largest_dma=81920
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201c0c7  PS      : 0x00060730  A0      : 0x8201c700  A1      : 0x3fcd5e20
+A2      : 0x3fcd66bc  A3      : 0x3c060500  A4      : 0x00000000  A5      : 0x00000ac8
+A6      : 0x3c060500  A7      : 0x3c060d29  A8      : 0x7fffffff  A9      : 0x3fcd5dc0
+A10     : 0x00000001  A11     : 0x3c060500  A12     : 0x3c060a47  A13     : 0x3fcd5e20
+A14     : 0x3fcd5e00  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x4201c0c4:0x3fcd5e20 0x4201c6fd:0x3fcd5e40 0x42012e3e:0x3fcd5eb0 0x42014593:0x3fcd6000 0x42010c0f:0x3fcd6020
+
+
+
+
+ELF file SHA256: 690f8c875bad4d6a
+
+Rebooting...
+ARose WaveShare 0.3.0-xip; CPU=240 MHz flash=16777216 PSRAM=7929856
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=4489 brightness=100 storage=1 save_position=1
+LCD_MEMORY internal=146768 largest_dma=81920
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201c0c7  PS      : 0x00060730  A0      : 0x8201c700  A1      : 0x3fcd5e20
+A2      : 0x3fcd66bc  A3      : 0x3c060500  A4      : 0x00000000  A5      : 0x00000acc
+A6      : 0x3c060500  A7      : 0x3c060d29  A8      : 0x7fffffff  A9      : 0x3fcd5dc0
+A10     : 0x00000001  A11     : 0x3c060500  A12     : 0x3c060a47  A13     : 0x3fcd5e20
+A14     : 0x3fcd5e00  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x4201c0c4:0x3fcd5e20 0x4201c6fd:0x3fcd5e40 0x42012e3e:0x3fcd5eb0 0x42014593:0x3fcd6000 0x42010c0f:0x3fcd6020
+
+
+
+
+ELF file SHA256: 690f8c875bad4d6a
+
+Rebooting...
+ARose WaveShare 0.3.0-xip; CPU=240 MHz flash=16777216 PSRAM=7929856
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=4489 brightness=100 storage=1 save_position=1
+LCD_MEMORY internal=146768 largest_dma=81920
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201c0c7  PS      : 0x00060730  A0      : 0x8201c700  A1      : 0x3fcd5e20
+A2      : 0x3fcd66bc  A3      : 0x3c060500  A4      : 0x00000000  A5      : 0x00000acc
+A6      : 0x3c060500  A7      : 0x3c060d29  A8      : 0x7fffffff  A9      : 0x3fcd5dc0
+A10     : 0x00000001  A11     : 0x3c060500  A12     : 0x3c060a47  A13     : 0x3fcd5e20
+A14     : 0x3fcd5e00  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x4201c0c4:0x3fcd5e20 0x4201c6fd:0x3fcd5e40 0x42012e3e:0x3fcd5eb0 0x42014593:0x3fcd6000 0x42010c0f:0x3fcd6020
+
+
+
+
+ELF file SHA256: 690f8c875bad4d6a
+
+Rebooting...
+ARose WaveShare 0.3.0-xip; CPU=240 MHz flash=16777216 PSRAM=7929856
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=4489 brightness=100 storage=1 save_position=1
+LCD_MEMORY internal=146768 largest_dma=81920
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4201c0c7  PS      : 0x00060730  A0      : 0x8201c700  A1      : 0x3fcd5e20
+A2      : 0x3fcd66bc  A3      : 0x3c060500  A4      : 0x00000000  A5      : 0x00000acc
+A6      : 0x3c060500  A7      : 0x3c060d29  A8      : 0x7fffffff  A9      : 0x3fcd5dc0
+A10     : 0x00000001  A11     : 0x3c060500  A12     : 0x3c060a47  A13     : 0x3fcd5e20
+A14     : 0x3fcd5e00  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffb
+
+
+Backtrace: 0x4201c0c4:0x3fcd5e20 0x4201c6fd:0x3fcd5e40 0x42012e3e:0x3fcd5eb0 0x42014593:0x3fcd6000 0x42010c0f:0x3fcd6020
+
+
+
+
+ELF file SHA256: 690f8c875bad4d6a
+
+Rebooting...

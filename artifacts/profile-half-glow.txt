@@ -1,0 +1,6 @@
+PROFILE prepare=2184 halo=12226 core=2476 convert=832 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=22.20 render_ms=37.63 max_ms=44.09 present_ms=5.68 frames=14 sim=30 errors=0 dropped=0 heap=134904 psram=7463408 brightness=100
+PROFILE prepare=2180 halo=14807 core=2876 convert=6302 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=15.48 render_ms=48.91 max_ms=56.07 present_ms=13.56 frames=78 sim=249 errors=0 dropped=0 heap=134640 psram=7463408 brightness=100
+PROFILE prepare=2179 halo=13722 core=2699 convert=4114 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=14.37 render_ms=49.57 max_ms=53.39 present_ms=17.71 frames=72 sim=499 errors=0 dropped=0 heap=134640 psram=7463408 brightness=100

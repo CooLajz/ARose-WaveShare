@@ -1,0 +1,1366 @@
+ng...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911
+E (2525) lcd_panel.rgb: lcd_rgb_panel_alloc_frame_buffers(169): no mem for bounce buffer
+E (2525) lcd_panel.rgb: esp_lcd_new_rgb_panel(289): alloc frame buffers failed
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x4202245b  PS      : 0x00060330  A0      : 0x82022a88  A1      : 0x3fcf6e60
+A2      : 0x3fcd79d8  A3      : 0x3c04d77b  A4      : 0x00000000  A5      : 0x3fcf6e30
+A6      : 0x3c04d77b  A7      : 0x3c04ddfc  A8      : 0x7fffffff  A9      : 0x3fcf6e00
+A10     : 0x00000001  A11     : 0x3c04d77b  A12     : 0x3c04dbcf  A13     : 0x3fcf6e60
+A14     : 0x3fcf6e30  A15     : 0x0000000c  SAR     : 0x00000004  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x00000000  LBEG    : 0x400556d5  LEND    : 0x400556e5  LCOUNT  : 0xfffffffa
+
+
+Backtrace: 0x42022458:0x3fcf6e60 0x42022a85:0x3fcf6e80 0x420030eb:0x3fcf6ef0 0x4200515b:0x3fcf7040 0x4200266b:0x3fcf7060 0x40380dde:0x3fcf7080
+
+
+
+
+ELF file SHA256: e6c12f7aa6c6b709
+
+Rebooting...
+Hardware: ESP32-S3-Touch-LCD-2.8C, dotyk: GT911

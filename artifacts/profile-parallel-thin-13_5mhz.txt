@@ -1,0 +1,40 @@
+Spusteno: ESP32-S3-Touch-LCD-2.8C; moderni glow; jas 100 %
+PROFILE prepare=0 halo=0 core=0 convert=0 cpu0=0 cpu1=0 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=0.00 render_ms=0.00 max_ms=0.00 present_ms=0.00 frames=0 sim=6801 errors=0 dropped=0 heap=38476 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=0.00 late=0
+PROFILE prepare=149 halo=9126 core=1417 convert=1592 cpu0=6283 cpu1=7428 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=47.46 render_ms=9.12 max_ms=67.92 present_ms=11.49 frames=238 sim=7050 errors=0 dropped=0 heap=38444 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=41.24 late=2
+PROFILE prepare=149 halo=11046 core=1404 convert=1991 cpu0=7397 cpu1=8013 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=11.69 max_ms=19.09 present_ms=8.47 frames=243 sim=7301 errors=0 dropped=0 heap=38212 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.68 late=0
+PROFILE prepare=154 halo=15331 core=1413 convert=4323 cpu0=11065 cpu1=10945 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=11.15 max_ms=17.52 present_ms=9.02 frames=243 sim=7551 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.63 late=0
+PROFILE prepare=154 halo=13419 core=1380 convert=3571 cpu0=9477 cpu1=9881 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=8.84 max_ms=12.97 present_ms=11.34 frames=243 sim=7802 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.63 late=0
+PROFILE prepare=150 halo=12525 core=1436 convert=3346 cpu0=9460 cpu1=9731 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=11.41 max_ms=14.26 present_ms=8.76 frames=243 sim=8052 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.63 late=0
+PROFILE prepare=149 halo=11098 core=1404 convert=1979 cpu0=7415 cpu1=8035 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=8.12 max_ms=12.26 present_ms=12.05 frames=243 sim=8303 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.63 late=0
+PROFILE prepare=150 halo=15535 core=3438 convert=9964 cpu0=15673 cpu1=14205 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=11.87 max_ms=18.89 present_ms=8.29 frames=243 sim=8553 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.75 late=0
+PROFILE prepare=149 halo=13058 core=1439 convert=3642 cpu0=10453 cpu1=10129 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=38.32 render_ms=17.84 max_ms=27.41 present_ms=7.68 frames=192 sim=8804 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=41.24 late=51
+PROFILE prepare=149 halo=9614 core=1407 convert=1388 cpu0=6091 cpu1=7283 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=8.17 max_ms=12.74 present_ms=11.99 frames=243 sim=9055 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.63 late=0
+PROFILE prepare=150 halo=8928 core=1425 convert=1678 cpu0=6424 cpu1=7642 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=7.46 max_ms=10.04 present_ms=12.70 frames=243 sim=9305 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.63 late=0
+PROFILE prepare=149 halo=9479 core=2272 convert=3311 cpu0=7715 cpu1=8292 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=8.18 max_ms=11.13 present_ms=11.98 frames=243 sim=9556 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.63 late=0
+PROFILE prepare=149 halo=17590 core=1401 convert=8630 cpu0=15343 cpu1=13919 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=48.50 render_ms=10.32 max_ms=17.06 present_ms=9.84 frames=243 sim=9806 errors=0 dropped=0 heap=38012 psram=7002592 brightness=100
+PACING pclk=13500000 gap_ms=20.63 late=0

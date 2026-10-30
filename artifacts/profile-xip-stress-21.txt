@@ -1,0 +1,183 @@
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7929856
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=80588 brightness=100 storage=1
+LCD_MEMORY internal=147576 largest_dma=86016
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+TouchPad_Version:0x00
+ChipID:0xb7   ProjID:0x00   FwVersion:0x03
+Spusteno: ESP32-S3-Touch-LCD-2.1; moderni glow; jas 100 %
+PROFILE prepare=149 halo=9192 core=1448 convert=2829 cpu0=6257 cpu1=8174 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.39 render_ms=9.99 max_ms=19.36 present_ms=10.49 frames=237 sim=80838 errors=0 dropped=0 heap=50016 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=0 storage=1
+PACING pclk=13000000 gap_ms=21.14 late=0
+PROFILE prepare=150 halo=6940 core=2006 convert=825 cpu0=4363 cpu1=6360 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.58 render_ms=7.26 max_ms=9.83 present_ms=13.12 frames=60 sim=80901 errors=0 dropped=0 heap=49796 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=0 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+TEST regular cadence baseline
+PROFILE prepare=150 halo=9110 core=1422 convert=1810 cpu0=5745 cpu1=7596 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=7.05 max_ms=10.23 present_ms=13.39 frames=238 sim=81088 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=0 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+PROFILE prepare=150 halo=9333 core=1415 convert=1883 cpu0=5838 cpu1=7756 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=8.39 max_ms=11.38 present_ms=12.02 frames=238 sim=81338 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=0 storage=1
+PACING pclk=13000000 gap_ms=21.04 late=0
+CHECKPOINT result=saved frame=81338 bytes=104 elapsed_ms=10.75 count=1 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=152 halo=7925 core=1409 convert=2159 cpu0=5079 cpu1=7375 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=7.35 max_ms=10.61 present_ms=13.09 frames=238 sim=81588 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=1 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+PROFILE prepare=149 halo=13322 core=1471 convert=7366 cpu0=10879 cpu1=12244 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=8.24 max_ms=13.92 present_ms=12.20 frames=238 sim=81839 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=1 storage=1
+PACING pclk=13000000 gap_ms=21.04 late=0
+PROFILE prepare=149 halo=8457 core=2163 convert=1615 cpu0=5686 cpu1=7525 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=10.94 max_ms=17.31 present_ms=9.50 frames=238 sim=82089 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=1 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+CHECKPOINT result=saved frame=82089 bytes=104 elapsed_ms=7.37 count=2 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=154 halo=12510 core=2684 convert=4612 cpu0=9509 cpu1=11254 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=10.70 max_ms=16.51 present_ms=9.75 frames=238 sim=82339 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=2 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+TEST accelerated checkpoints begin
+CHECKPOINT result=saved frame=82421 bytes=104 elapsed_ms=28.18 count=3 brightness=100 error=OK erases=1 erase_ms=20.86
+CHECKPOINT result=saved frame=82452 bytes=104 elapsed_ms=7.44 count=4 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82480 bytes=104 elapsed_ms=5.03 count=5 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82509 bytes=104 elapsed_ms=5.25 count=6 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82538 bytes=104 elapsed_ms=6.41 count=7 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82567 bytes=104 elapsed_ms=5.76 count=8 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=151 halo=8360 core=2148 convert=1410 cpu0=5520 cpu1=7369 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=10.27 max_ms=15.78 present_ms=10.16 frames=238 sim=82590 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=8 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+CHECKPOINT result=saved frame=82592 bytes=104 elapsed_ms=4.90 count=9 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82621 bytes=104 elapsed_ms=4.84 count=10 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82650 bytes=104 elapsed_ms=4.90 count=11 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82678 bytes=104 elapsed_ms=6.80 count=12 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82706 bytes=104 elapsed_ms=3.84 count=13 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82735 bytes=104 elapsed_ms=4.72 count=14 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82763 bytes=104 elapsed_ms=5.61 count=15 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82793 bytes=104 elapsed_ms=6.13 count=16 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82822 bytes=104 elapsed_ms=7.55 count=17 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=150 halo=14101 core=1391 convert=9370 cpu0=12060 cpu1=13756 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=11.31 max_ms=16.87 present_ms=9.09 frames=238 sim=82840 errors=0 dropped=0 heap=49512 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=17 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+CHECKPOINT result=saved frame=82847 bytes=104 elapsed_ms=6.92 count=18 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82877 bytes=104 elapsed_ms=7.02 count=19 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82905 bytes=104 elapsed_ms=6.82 count=20 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82935 bytes=104 elapsed_ms=7.94 count=21 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82964 bytes=104 elapsed_ms=5.11 count=22 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=82994 bytes=104 elapsed_ms=5.74 count=23 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83023 bytes=104 elapsed_ms=28.58 count=24 brightness=100 error=OK erases=1 erase_ms=18.83
+CHECKPOINT result=saved frame=83048 bytes=104 elapsed_ms=6.23 count=25 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83078 bytes=104 elapsed_ms=6.18 count=26 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=151 halo=7620 core=1445 convert=1023 cpu0=4645 cpu1=6957 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=9.40 max_ms=15.94 present_ms=11.04 frames=238 sim=83090 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=26 storage=1
+PACING pclk=13000000 gap_ms=21.06 late=0
+CHECKPOINT result=saved frame=83103 bytes=104 elapsed_ms=4.02 count=27 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83132 bytes=104 elapsed_ms=4.03 count=28 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83162 bytes=104 elapsed_ms=4.11 count=29 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83191 bytes=104 elapsed_ms=4.17 count=30 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83221 bytes=104 elapsed_ms=4.87 count=31 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83251 bytes=104 elapsed_ms=6.07 count=32 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83282 bytes=104 elapsed_ms=4.68 count=33 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83311 bytes=104 elapsed_ms=3.82 count=34 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=150 halo=17691 core=2203 convert=8081 cpu0=14128 cpu1=14847 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=9.71 max_ms=16.53 present_ms=10.73 frames=238 sim=83341 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=34 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+CHECKPOINT result=saved frame=83341 bytes=104 elapsed_ms=19.15 count=35 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83370 bytes=104 elapsed_ms=6.52 count=36 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83401 bytes=104 elapsed_ms=4.40 count=37 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83426 bytes=104 elapsed_ms=6.22 count=38 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83450 bytes=104 elapsed_ms=21.32 count=39 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83475 bytes=104 elapsed_ms=5.90 count=40 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83505 bytes=104 elapsed_ms=5.96 count=41 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83534 bytes=104 elapsed_ms=6.09 count=42 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83564 bytes=104 elapsed_ms=14.62 count=43 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=150 halo=12217 core=2065 convert=5700 cpu0=9555 cpu1=11403 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=13.13 max_ms=16.90 present_ms=7.25 frames=238 sim=83591 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=43 storage=1
+PACING pclk=13000000 gap_ms=21.08 late=0
+CHECKPOINT result=saved frame=83593 bytes=104 elapsed_ms=7.62 count=44 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=saved frame=83621 bytes=104 elapsed_ms=25.28 count=45 brightness=100 error=OK erases=1 erase_ms=17.41
+TEST accelerated checkpoints complete writes=43 erases=3
+PROFILE prepare=150 halo=8891 core=1419 convert=1946 cpu0=5972 cpu1=7987 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=13.14 max_ms=16.86 present_ms=7.30 frames=238 sim=83841 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=45 storage=1
+PACING pclk=13000000 gap_ms=21.06 late=0
+PROFILE prepare=150 halo=8846 core=1421 convert=2521 cpu0=5913 cpu1=7819 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=7.38 max_ms=10.62 present_ms=13.04 frames=238 sim=84092 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=45 storage=1
+PACING pclk=13000000 gap_ms=21.10 late=0
+PROFILE prepare=150 halo=10859 core=1969 convert=3245 cpu0=7637 cpu1=9411 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=10.52 max_ms=14.07 present_ms=9.97 frames=238 sim=84342 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=45 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+CHECKPOINT result=saved frame=84372 bytes=104 elapsed_ms=3.74 count=46 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=152 halo=8489 core=2146 convert=2686 cpu0=6238 cpu1=8141 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=9.01 max_ms=12.00 present_ms=11.45 frames=238 sim=84592 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=46 storage=1
+PACING pclk=13000000 gap_ms=21.04 late=0
+PROFILE prepare=225 halo=13506 core=1482 convert=1388 cpu0=7403 cpu1=10017 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=10.76 max_ms=15.03 present_ms=9.72 frames=238 sim=84843 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=46 storage=1
+PACING pclk=13000000 gap_ms=21.04 late=0
+PROFILE prepare=154 halo=13804 core=1373 convert=4461 cpu0=9431 cpu1=11172 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=8.65 max_ms=13.73 present_ms=11.81 frames=238 sim=85093 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=46 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+CHECKPOINT result=saved frame=85123 bytes=104 elapsed_ms=3.84 count=47 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=151 halo=11483 core=1431 convert=3462 cpu0=7723 cpu1=9608 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.56 render_ms=10.42 max_ms=13.37 present_ms=9.96 frames=107 sim=85205 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=47 storage=1
+PACING pclk=13000000 gap_ms=21.04 late=0
+PROFILE prepare=150 halo=10110 core=2111 convert=3974 cpu0=7644 cpu1=9520 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=0.00 render_ms=0.00 max_ms=0.00 present_ms=0.00 frames=0 sim=85223 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=1 menu=0 brightness=100 saves=47 storage=1
+PACING pclk=13000000 gap_ms=0.00 late=0
+CHECKPOINT result=saved frame=85223 bytes=104 elapsed_ms=4.40 count=48 brightness=100 error=OK erases=0 erase_ms=0.00
+CHECKPOINT result=unchanged frame=85223 bytes=104 elapsed_ms=0.03 count=48 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=150 halo=10110 core=2111 convert=3974 cpu0=7644 cpu1=9520 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=0.00 render_ms=0.00 max_ms=0.00 present_ms=0.00 frames=0 sim=85223 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=1 menu=1 brightness=100 saves=48 storage=1
+PACING pclk=13000000 gap_ms=0.00 late=0
+PROFILE prepare=150 halo=10110 core=2111 convert=3974 cpu0=7644 cpu1=9520 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=0.00 render_ms=0.00 max_ms=0.00 present_ms=0.00 frames=0 sim=85223 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=1 menu=0 brightness=100 saves=48 storage=1
+PACING pclk=13000000 gap_ms=0.00 late=0
+TEST hardware reset and resume
+ARose WaveShare 0.2.1-xip; CPU=240 MHz flash=16777216 PSRAM=7929856
+SDK idf=v5.1.4 xip_instructions=1 xip_rodata=1 cache_line=64 psram_physical=8388608 resync=off
+RESTORE loaded=1 frame=85223 brightness=100 storage=1
+LCD_MEMORY internal=147576 largest_dma=86016
+Hardware: ESP32-S3-Touch-LCD-2.1, dotyk: CST820
+TouchPad_Version:0x00
+ChipID:0xb7   ProjID:0x00   FwVersion:0x03
+Spusteno: ESP32-S3-Touch-LCD-2.1; moderni glow; jas 100 %
+PROFILE prepare=225 halo=12868 core=1941 convert=1302 cpu0=7284 cpu1=9790 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.39 render_ms=8.50 max_ms=19.41 present_ms=12.03 frames=237 sim=85473 errors=0 dropped=0 heap=50016 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=0 storage=1
+PACING pclk=13000000 gap_ms=21.10 late=0
+PROFILE prepare=152 halo=7671 core=1422 convert=1141 cpu0=4905 cpu1=6969 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.57 render_ms=7.41 max_ms=10.03 present_ms=13.01 frames=63 sim=85539 errors=0 dropped=0 heap=49796 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=0 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+PROFILE prepare=151 halo=10119 core=1386 convert=2075 cpu0=6182 cpu1=8359 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=7.39 max_ms=10.73 present_ms=13.09 frames=238 sim=85723 errors=0 dropped=0 heap=49796 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=0 storage=1
+PACING pclk=13000000 gap_ms=21.05 late=0
+PROFILE prepare=151 halo=9753 core=1403 convert=1942 cpu0=5965 cpu1=8092 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=11.11 max_ms=14.95 present_ms=9.35 frames=238 sim=85973 errors=0 dropped=0 heap=49796 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=0 storage=1
+PACING pclk=13000000 gap_ms=21.04 late=0
+CHECKPOINT result=saved frame=85973 bytes=104 elapsed_ms=10.63 count=1 brightness=100 error=OK erases=0 erase_ms=0.00
+PROFILE prepare=150 halo=16860 core=2277 convert=8596 cpu0=14087 cpu1=14624 us
+AROSE board=ESP32-S3-Touch-LCD-2.1 version=0.2.1-xip fps=47.55 render_ms=9.26 max_ms=15.79 present_ms=11.18 frames=238 sim=86223 errors=0 dropped=0 heap=49644 psram=6544012 brightness=100
+UI paused=0 menu=0 brightness=100 saves=1 storage=1
+PACING pclk=13000000 gap_ms=21.08 late=0
+TEST PASS: XIP boot, NVS recycling, pause deduplication, menu and restored generator

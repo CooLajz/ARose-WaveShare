@@ -1,0 +1,108 @@
+#pragma once
+#include <inttypes.h>
+
+#include "freertos/FreeRTOS.h"
+#include "freertos/semphr.h"
+#include "freertos/task.h"
+#include "driver/spi_master.h"
+#include "driver/gpio.h"
+#include "esp_heap_caps.h"
+#include "esp_log.h"
+#include "esp_lcd_panel_ops.h"
+#include "esp_lcd_panel_io.h"
+#include "esp_lcd_panel_rgb.h"
+
+#include "driver/spi_master.h"
+#include "driver/gpio.h"
+#include "freertos/task.h"
+
+#include "TCA9554PWR.h"
+#include "Touch_CST820.h"
+#include "FirmwareBuild.h"
+
+#define LCD_CLK_PIN   2
+#define LCD_MOSI_PIN  1
+#define LCD_Backlight_PIN   6
+// Backlight
+#define PWM_Channel     1       // PWM Channel
+#define Frequency       20000   // PWM frequencyconst
+#define Resolution      10       // PWM resolution ratio     MAX:13
+#define Dutyfactor      500     // PWM Dutyfactor
+#define Backlight_MAX   100
+
+#define ESP_PANEL_LCD_WIDTH                       (480)
+#define ESP_PANEL_LCD_HEIGHT                      (480)
+#define ESP_PANEL_LCD_COLOR_BITS                  (16)
+#define ESP_PANEL_LCD_RGB_PIXEL_BITS              (16)    // 24 | 16
+#define ESP_PANEL_LCD_RGB_DATA_WIDTH              (16)
+#ifndef AROSE_PIXEL_CLOCK_HZ
+#define AROSE_PIXEL_CLOCK_HZ                     (13 * 1000 * 1000)
+#endif
+#define ESP_PANEL_LCD_RGB_TIMING_FREQ_HZ          AROSE_PIXEL_CLOCK_HZ
+#define ESP_PANEL_LCD_RGB_TIMING_HPW              (8)
+#define ESP_PANEL_LCD_RGB_TIMING_HBP              (10)
+#define ESP_PANEL_LCD_RGB_TIMING_HFP              (50)
+#define ESP_PANEL_LCD_RGB_TIMING_VPW              (3)
+#define ESP_PANEL_LCD_RGB_TIMING_VBP              (8)
+#define ESP_PANEL_LCD_RGB_TIMING_VFP              (8)
+#define ESP_PANEL_LCD_RGB_FRAME_BUF_NUM           (3)     // 1/2/3
+#define ESP_PANEL_LCD_RGB_BOUNCE_BUF_SIZE         (ESP_PANEL_LCD_WIDTH * 40)     // Dva prenosove buffery po 40 radcich v interni SRAM.
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////// Please update the following configuration according to your board spec ////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#define ESP_PANEL_LCD_PIN_NUM_RGB_HSYNC           (38)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_VSYNC           (39)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DE              (40)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_PCLK            (41)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA0           (5)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA1           (45)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA2           (48)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA3           (47)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA4           (21)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA5           (14)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA6           (13)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA7           (12)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA8           (11)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA9           (10)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA10          (9)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA11          (46)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA12          (3)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA13          (8)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA14          (18)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DATA15          (17)
+#define ESP_PANEL_LCD_PIN_NUM_RGB_DISP            (-1)
+
+#define ESP_PANEL_LCD_BK_LIGHT_ON_LEVEL           (1)
+#define ESP_PANEL_LCD_BK_LIGHT_OFF_LEVEL !ESP_PANEL_LCD_BK_LIGHT_ON_LEVEL
+
+#define EXAMPLE_ENABLE_PRINT_LCD_FPS            (0)
+
+extern uint8_t LCD_Backlight;
+extern esp_lcd_panel_handle_t panel_handle;
+void ST7701_Init();
+
+void LCD_Init();
+void LCD_Resync();
+bool LCD_SetPixelClock(uint32_t frequencyHz);
+uint32_t LCD_GetPixelClock();
+float LCD_GetFramePeriodMs();
+bool LCD_WaitFrames(uint32_t count, uint32_t timeoutMs);
+void LCD_Sleep();
+void LCD_Wake();
+void LCD_SetStorageBlanked(bool blanked);
+bool LCD_IsSleeping();
+void LCD_SuppressBacklight(bool suppressed);
+uint8_t LCD_GetBacklight();
+#if !FIRMWARE_RELEASE
+// Runtime A/B test on 2.8C only. Resets to factory gamma at the next boot.
+bool LCD_SetDiagnosticGamma(bool reference21);
+#endif
+bool LCD_addWindow(uint16_t Xstart, uint16_t Ystart, uint16_t Xend,
+                   uint16_t Yend, uint8_t* color);
+
+// backlight
+void Backlight_Init();
+void Set_Backlight(uint8_t Light);

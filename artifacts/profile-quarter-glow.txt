@@ -1,0 +1,16 @@
+PROFILE prepare=1276 halo=5707 core=2379 convert=676 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=49.69 render_ms=15.51 max_ms=50.02 present_ms=3.26 frames=30 sim=30 errors=0 dropped=0 heap=174356 psram=7002592 brightness=100
+PROFILE prepare=1276 halo=7909 core=2827 convert=6218 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=34.82 render_ms=18.57 max_ms=50.02 present_ms=8.67 frames=175 sim=250 errors=0 dropped=0 heap=174092 psram=7002592 brightness=100
+PROFILE prepare=1280 halo=7371 core=2661 convert=4615 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=32.33 render_ms=18.76 max_ms=21.05 present_ms=10.61 frames=162 sim=501 errors=0 dropped=0 heap=174092 psram=7002592 brightness=100
+PROFILE prepare=1276 halo=9850 core=3331 convert=10036 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=32.33 render_ms=23.82 max_ms=28.29 present_ms=5.52 frames=162 sim=751 errors=0 dropped=0 heap=173892 psram=7002592 brightness=100
+PROFILE prepare=1280 halo=12279 core=3478 convert=17305 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=27.86 render_ms=28.32 max_ms=36.20 present_ms=5.90 frames=140 sim=1002 errors=0 dropped=0 heap=173892 psram=7002592 brightness=100
+PROFILE prepare=1280 halo=7104 core=2642 convert=3637 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=27.46 render_ms=25.16 max_ms=38.61 present_ms=9.54 frames=138 sim=1254 errors=0 dropped=0 heap=173892 psram=7002592 brightness=100
+PROFILE prepare=1280 halo=10371 core=3270 convert=11819 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=32.23 render_ms=19.66 max_ms=28.83 present_ms=9.74 frames=162 sim=1505 errors=0 dropped=0 heap=173892 psram=7002592 brightness=100
+PROFILE prepare=1280 halo=10933 core=3274 convert=13654 us
+AROSE board=ESP32-S3-Touch-LCD-2.8C version=0.1.0-prototype fps=21.56 render_ms=33.45 max_ms=35.54 present_ms=11.00 frames=108 sim=1755 errors=0 dropped=0 heap=173892 psram=7002592 brightness=100
