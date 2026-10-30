@@ -15,10 +15,10 @@ Evolving rainbow patterns, soft light, and glowing trails — running entirely o
 
 ## Try it
 
-Download the factory `.bin` from the [latest release](https://github.com/CooLajz/ARose-WaveShare/releases/latest) and install it using the [web flashing guide](docs/FLASHING.md). No compilation is needed. One firmware detects both supported boards automatically.
+Download the factory `.bin` from the [latest release](https://github.com/CooLajz/ARose-WaveShare/releases/latest) and install it using the [web flashing guide](docs/FLASHING.md). No compilation is needed. One firmware detects both supported boards automatically. **After flashing, press RESET without holding BOOT, or disconnect and reconnect power.**
 
 - **Waveshare ESP32-S3-Touch-LCD-2.1** — current firmware tested on hardware.
-- **Waveshare ESP32-S3-Touch-LCD-2.8C** — renderer tested on hardware; the latest XIP/settings build still needs validation on this model.
+- **Waveshare ESP32-S3-Touch-LCD-2.8C** — renderer tested on hardware; release startup after native-USB flashing and manual reset confirmed by a user. Extended XIP/settings validation remains open.
 
 Both are the 480 × 480 ESP32-S3 versions with 16 MB flash and 8 MB PSRAM. Other similarly named Waveshare boards are not supported.
 

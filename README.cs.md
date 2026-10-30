@@ -15,10 +15,10 @@ Proměnlivé duhové obrazce, měkká záře a světelné stopy — vše běží
 
 ## Vyzkoušejte demo
 
-Z [posledního vydání](https://github.com/CooLajz/ARose-WaveShare/releases/latest) stáhněte factory `.bin` a postupujte podle [návodu k nahrání přes webový flasher](docs/FLASHING.cs.md). Není potřeba nic kompilovat. Jeden firmware automaticky rozpozná oba podporované modely.
+Z [posledního vydání](https://github.com/CooLajz/ARose-WaveShare/releases/latest) stáhněte factory `.bin` a postupujte podle [návodu k nahrání přes webový flasher](docs/FLASHING.cs.md). Není potřeba nic kompilovat. Jeden firmware automaticky rozpozná oba podporované modely. **Po nahrání stiskněte RESET bez držení BOOT, nebo odpojte a znovu připojte napájení.**
 
 - **Waveshare ESP32-S3-Touch-LCD-2.1** — aktuální firmware ověřen na zařízení.
-- **Waveshare ESP32-S3-Touch-LCD-2.8C** — renderer ověřen na zařízení; poslední XIP sestavení s nastavením na tomto modelu ještě čeká na ověření.
+- **Waveshare ESP32-S3-Touch-LCD-2.8C** — renderer ověřen na zařízení; uživatel potvrdil spuštění release po nahrání přes nativní USB a ručním resetu. Delší test XIP a nastavení zatím chybí.
 
 Jde o varianty ESP32-S3 s rozlišením 480 × 480, 16 MB flash a 8 MB PSRAM. Jiné podobně pojmenované displeje Waveshare podporované nejsou.
 
