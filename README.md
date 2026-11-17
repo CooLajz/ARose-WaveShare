@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/1bdb78b3-313c-4696-85f4-d2cffa317177
 
 ![Twenty colorful ARose patterns captured directly from the device at ten-second intervals](artifacts/device-animation-contact-sheet.jpg)
 
+*20 frames captured from the device, one every 10 seconds.*
+
 ## Try it
 
 Download the factory `.bin` from the [latest release](https://github.com/CooLajz/ARose-WaveShare/releases/latest) and install it using the [web flashing guide](docs/FLASHING.md). No compilation is needed. One firmware detects both supported boards automatically. **After flashing, press RESET without holding BOOT, or disconnect and reconnect power.**

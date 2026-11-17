@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/1bdb78b3-313c-4696-85f4-d2cffa317177
 
 ![Dvacet barevných obrazců ARose sejmutých přímo ze zařízení v desetisekundových intervalech](artifacts/device-animation-contact-sheet.jpg)
 
+*20 snímků pořízených přímo ze zařízení v rozestupech 10 sekund.*
+
 ## Vyzkoušejte demo
 
 Z [posledního vydání](https://github.com/CooLajz/ARose-WaveShare/releases/latest) stáhněte factory `.bin` a postupujte podle [návodu k nahrání přes webový flasher](docs/FLASHING.cs.md). Není potřeba nic kompilovat. Jeden firmware automaticky rozpozná oba podporované modely. **Po nahrání stiskněte RESET bez držení BOOT, nebo odpojte a znovu připojte napájení.**
