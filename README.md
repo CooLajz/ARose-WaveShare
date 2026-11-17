@@ -19,6 +19,8 @@ ARose running on the round Waveshare display. The preview is one minute long.
 
 https://github.com/user-attachments/assets/1bdb78b3-313c-4696-85f4-d2cffa317177
 
+*The animation loses some of its appeal on video. The camera struggled to capture the fine light trails, and compression softened them further. Their crisp detail is part of what makes the animation so striking on the display itself.*
+
 [Download the full recording (MP4, 2:56)](https://github.com/CooLajz/ARose-WaveShare/releases/download/v0.3.0/ARose-WaveShare-demo.mp4)
 
 ![Twenty colorful ARose patterns captured directly from the device at ten-second intervals](artifacts/device-animation-contact-sheet.jpg)

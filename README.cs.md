@@ -19,6 +19,8 @@ Minutová ukázka zachycuje ARose přímo na kulatém displeji Waveshare.
 
 https://github.com/user-attachments/assets/1bdb78b3-313c-4696-85f4-d2cffa317177
 
+*Na videu animace bohužel ztrácí část svého kouzla. Kamerou se nepodařilo věrně zachytit jemné světelné stopy a komprese dál ubrala na jejich ostrosti. Právě ta přitom dává obrazcům na displeji vyniknout.*
+
 [Stáhnout celý záznam (MP4, 2:56)](https://github.com/CooLajz/ARose-WaveShare/releases/download/v0.3.0/ARose-WaveShare-demo.mp4)
 
 ![Dvacet barevných obrazců ARose sejmutých přímo ze zařízení v desetisekundových intervalech](artifacts/device-animation-contact-sheet.jpg)
