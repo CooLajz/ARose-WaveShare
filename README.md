@@ -13,6 +13,14 @@ Evolving rainbow patterns, soft light, and glowing trails — running entirely o
 
 *Actual device framebuffer captures, not photographs of the panel.*
 
+## Video demo
+
+ARose running on the round Waveshare display. The preview is one minute long.
+
+https://github.com/user-attachments/assets/1bdb78b3-313c-4696-85f4-d2cffa317177
+
+[Download the full recording (MP4, 2:56)](https://github.com/CooLajz/ARose-WaveShare/releases/download/v0.3.0/ARose-WaveShare-demo.mp4)
+
 ## Try it
 
 Download the factory `.bin` from the [latest release](https://github.com/CooLajz/ARose-WaveShare/releases/latest) and install it using the [web flashing guide](docs/FLASHING.md). No compilation is needed. One firmware detects both supported boards automatically. **After flashing, press RESET without holding BOOT, or disconnect and reconnect power.**

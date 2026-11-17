@@ -13,6 +13,14 @@ Proměnlivé duhové obrazce, měkká záře a světelné stopy — vše běží
 
 *Skutečné snímky framebufferu zařízení, nikoli fotografie displeje.*
 
+## Videoukázka
+
+Minutová ukázka zachycuje ARose přímo na kulatém displeji Waveshare.
+
+https://github.com/user-attachments/assets/1bdb78b3-313c-4696-85f4-d2cffa317177
+
+[Stáhnout celý záznam (MP4, 2:56)](https://github.com/CooLajz/ARose-WaveShare/releases/download/v0.3.0/ARose-WaveShare-demo.mp4)
+
 ## Vyzkoušejte demo
 
 Z [posledního vydání](https://github.com/CooLajz/ARose-WaveShare/releases/latest) stáhněte factory `.bin` a postupujte podle [návodu k nahrání přes webový flasher](docs/FLASHING.cs.md). Není potřeba nic kompilovat. Jeden firmware automaticky rozpozná oba podporované modely. **Po nahrání stiskněte RESET bez držení BOOT, nebo odpojte a znovu připojte napájení.**
